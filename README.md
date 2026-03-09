@@ -1,4 +1,3 @@
-Mai jos ai un **README.md profesional pentru GitHub**, cu structură clară, badges, secțiuni moderne și loc pentru **screenshots**. Poți copia direct în **README.md** în repository.
 
 ---
 
